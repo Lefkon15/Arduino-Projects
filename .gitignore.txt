@@ -1,0 +1,22 @@
+# Arduino build folders (the "junk" files)
+build/
+bin/
+layout/
+
+# Common compiled files
+*.hex
+*.elf
+*.o
+*.a
+*.la
+*.lo
+*.slo
+*.so
+*.so.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# If you use VS Code for Arduino
+.vscode/
