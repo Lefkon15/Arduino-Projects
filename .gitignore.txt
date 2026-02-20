@@ -2,6 +2,7 @@
 build/
 bin/
 layout/
+.stfolder/
 
 # Common compiled files
 *.hex
