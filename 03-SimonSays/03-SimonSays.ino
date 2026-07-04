@@ -4,6 +4,7 @@
 // Copyright (c) 2024 HiBit <https://www.hibit.dev>
 // ------------------------------------------------- for the winning music
 //tinkercad schematic https://www.tinkercad.com/things/aptvVMWeCn0-simon-says?sharecode=SqxM4pFtRtztcZ5iLi1MOxlCsY_Q4xP1yrEbKdD4794
+//demo video in https://youtube.com/shorts/Z2WZplO6pSc?feature=share
 #include "pitches.h"
 #define RedPin 7
 #define BluePin 6
