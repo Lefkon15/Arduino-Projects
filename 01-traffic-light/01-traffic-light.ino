@@ -1,3 +1,5 @@
+//Tinkercad Schematic: https://www.tinkercad.com/things/7qOcg4XDwK0-traffic-lights?sharecode=fzNKd56A5XxppdHCA9GvkYYm9xBVuXa8MfA5d3dI7Y8
+
 #define Red 10
 #define Orange 9
 #define Green 8

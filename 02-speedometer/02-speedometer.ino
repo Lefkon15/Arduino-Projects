@@ -1,3 +1,5 @@
+//Tinkercad schematic: https://www.tinkercad.com/things/792Tm0POEWs-speedometer?sharecode=Ol5CNsAiPQbjv7315l4tP_4UKbRi6TPUIyTFXbKpn7A
+
 #define RedLed 9
 #define GreenLed 8
 #define TrigPin 3
