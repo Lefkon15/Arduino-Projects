@@ -174,7 +174,7 @@ void loop()
   digitalWrite(RedPin, LOW);
   digitalWrite(BluePin, LOW);
   digitalWrite(GreenPin, LOW);
-  int round = 3;
+  int round = 1;
   bool lose = false;
   while (!lose) {
     StartGame(round);
@@ -185,7 +185,7 @@ void loop()
      }
     else {
       round++;
-      if (round == 6) {
+      if (round == 7) {
         Winning();
         delay(700);
         break;
